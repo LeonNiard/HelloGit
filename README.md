@@ -1,3 +1,1 @@
-#Hello Git - Enigma
-
-Merge Chapter
+Git - Enigma
